@@ -21,6 +21,7 @@ $(function() {
     $('.weather-report2').html(markup2);
     $('.weather-report3').html(markup3);
     $('.weather-report4').html(markup4);
+    $('.weather-report4').html(markup5);
   }
   $('a.get-the-weather').on('click', function(event) {
     event.preventDefault();
